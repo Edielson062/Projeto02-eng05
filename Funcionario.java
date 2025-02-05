@@ -31,6 +31,6 @@ public class Funcionario {
     }
 
     public String toString() {
-        return "Funcionario{" + "nome= " + nome + ", salario= " + salario + '}';
+        return  "Nome: " + nome + ", Salario: " + salario ;
     }
 }
